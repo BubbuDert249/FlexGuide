@@ -1,2 +1,2 @@
 # FlexGuide
-A guide on how to install chromeOS Flex on a Chromebook
+A guide on how to install chromeOS Flex on a Chromebook <br>
